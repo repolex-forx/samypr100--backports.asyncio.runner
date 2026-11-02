@@ -1,0 +1,11 @@
+{
+  "org": "samypr100",
+  "repo": "backports.asyncio.runner",
+  "versions": [
+    {
+      "commit": "1d691044f48fae3ae607dcd649c071439204e122",
+      "tag": "v1.2.0",
+      "parsed_at": "2026-11-02T18:55:15.899094+00:00"
+    }
+  ]
+}
