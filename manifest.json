@@ -1,0 +1,42 @@
+{
+  "manifest_version": "1.0",
+  "org": "samypr100",
+  "repo": "backports.asyncio.runner",
+  "versions": [
+    {
+      "commit": "1d691044f48fae3ae607dcd649c071439204e122",
+      "parsed_at": "2026-11-02T18:50:22.544040+00:00",
+      "tag": "v1.2.0",
+      "filetree": "filetree/1d691044f48fae3ae607dcd649c071439204e122.nq.gz",
+      "blobs": [
+        "blob/73935ad74688989a3ada6227fc6759c9d57608b2.nq.gz",
+        "blob/fce3ef4eaf3c86ee2c95ee5158534e3dd026b6c0.nq.gz",
+        "blob/7459f196524ea26f55b8d10cc1466a0625e5a007.nq.gz",
+        "blob/665048fd4a5613132cd7a468574422ccc3dd1d38.nq.gz",
+        "blob/c210a90a9be5958ae6251818952555ff6fadc56d.nq.gz",
+        "blob/b54b535a76bf6ec0ab93066a258b4e416c36d0e8.nq.gz",
+        "blob/7534ac032e7b540d4546bee98b523ae5638ac699.nq.gz",
+        "blob/cbcc22516b8fd246f9a762a7f938e5577c31c6c5.nq.gz",
+        "blob/f15f0f427964be86e1f94c0d0bec354a7ed1c9b7.nq.gz",
+        "blob/bf216efb1e68ba7f595d0ca0f482cbf1ed2d68a5.nq.gz",
+        "blob/4e812ab583178f2eab05a13c3dae36d975233120.nq.gz",
+        "blob/6313b56c57848efce05faa7aa7e901ccfc2886ea.nq.gz",
+        "blob/a0f86ac3c89023eba931a71da8e751e5239ae365.nq.gz",
+        "blob/65596008fd1a3627ed7d86835c9089f9103140ab.nq.gz",
+        "blob/8b1b22152c46d5938296d14e61d01dfd8a433505.nq.gz",
+        "blob/ed2c4b03932e0f91baac8a17e9bf46ec9827a753.nq.gz",
+        "blob/f7b36b030bdf33d564ea86a1ccb6684cb1977d70.nq.gz",
+        "blob/4929b25074ba56b0df332da8a2e83744551771a6.nq.gz",
+        "blob/317d608ee7a210175c289370fc24ee502cde9d8b.nq.gz",
+        "blob/fff3597592ad419a121b95c22d55fef832982382.nq.gz",
+        "blob/5e899f3c4de677796e305ea070d16f162dddb804.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/f7e7418757817ebe5ca189abeb5a2c25020ba861.nq.gz",
+        "blob/79ec3ce7738b18bb4a66f9efd4c6b32e53d17216.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
