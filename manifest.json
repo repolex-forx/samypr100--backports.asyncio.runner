@@ -37,7 +37,23 @@
       "ast": [
         "aggregate/ast/1d691044f48fae3ae607dcd649c071439204e122/chunk-001.nq.gz"
       ],
-      "repolex": "aggregate/repolex/1d691044f48fae3ae607dcd649c071439204e122/chunk-001.nq.gz"
+      "repolex": "aggregate/repolex/1d691044f48fae3ae607dcd649c071439204e122/chunk-001.nq.gz",
+      "lsp": "aggregate/lsp/1d691044f48fae3ae607dcd649c071439204e122.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "4.16.0",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "f29cd28d8ed7642cafb1d18daf5aa41be6a5c0aa",
+          "githubTag": "4.16.0",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "lsp",
+          "raw_name": "typing_extensions.py",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/typing_extensions.py"
+        }
+      ]
     }
   ],
   "commit": "commit/commit.nq.gz",
