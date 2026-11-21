@@ -38,6 +38,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── ast
 │   │   └── 1d691044f48fae3ae607dcd649c071439204e122
 │   │       └── chunk-001.nq.gz
+│   ├── lsp
+│   │   └── 1d691044f48fae3ae607dcd649c071439204e122.nq.gz
 │   └── repolex
 │       └── 1d691044f48fae3ae607dcd649c071439204e122
 │           └── chunk-001.nq.gz
@@ -70,12 +72,14 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── 1d691044f48fae3ae607dcd649c071439204e122.nq.gz
 ├── filetree
 │   └── 1d691044f48fae3ae607dcd649c071439204e122.nq.gz
 └── tag
     └── tag.nq.gz
 
-11 directories, 30 files
+13 directories, 32 files
 ```
 
 | Directory | What it contains |
@@ -96,4 +100,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [samypr100/backports.asyncio.runner](https://github.com/samypr100/backports.asyncio.runner)
 
 ---
-*Parsed on 2026-11-02 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-21 by [repolex](https://repolex.ai)*
